@@ -12,5 +12,5 @@ Table of key financial ratios and statistics, as well as components of the balan
 
 **CryptoWhaleTracker.ipynb and CryptoAddressTracker.ipynb can be run directly through Jupyter notebook:**
 
-  - Make sure you obtain a valid API key for WhaleAlert
+  - Make sure you obtain a valid API key for WhaleAlert when using CryptoWhaleTracker
   - When using CryptoAddressTracker, make sure you have a valid API key for Etherscan
